@@ -7,13 +7,13 @@ function App() {
   const data = [
     { id: 'snare', letter: 'Q', src: 'https://www.myinstants.com/media/sounds/snare.mp3' },
     { id: 'bass 1', letter: 'W', src: 'https://www.myinstants.com/media/sounds/bass-drum.mp3' },
-    { id: 'bongo', letter: 'E', src: 'https://tipiwiki.free.fr/snd/Percussion(4e)2.wav' },
-    { id: 'tom tom', letter: 'A', src: 'https://www.denhaku.com/r_box/sr16/sr16tom/loelectm.wav' },
-    { id: 'bass 3', letter: 'S', src: 'https://billor.chsh.chc.edu.tw/sound/bass4.wav' },
-    { id: 'shotgun', letter: 'D', src: 'https://david.guerrero.free.fr/Effects/ShotgunReload.wav' },
-    { id: 'high hat', letter: 'Z', src: 'https://www.denhaku.com/r_box/tr707/closed.wav' },
-    { id: 'drum hit', letter: 'X', src: 'https://www.masterbits.de/sc_docu/sounds1/1TM00013.MP3' },
-    { id: 'laser', letter: 'C', src: 'https://www.sa-matra.net/sounds/starcontrol/Umgah-Backzip.wav'  },
+    { id: 'bongo', letter: 'E', src: 'https://inventwithpython.com/match5.wav' },
+    { id: 'tom tom', letter: 'A', src: 'https://www.bbc.co.uk/northernireland/schools/sesame/includes/audio/shared/sfx/rollerskates.mp3' },
+    { id: 'bass 3', letter: 'S', src: 'https://www.soundjay.com/mechanical/sounds/smack-1.mp3' },
+    { id: 'shotgun', letter: 'D', src: 'https://waveevents.com/MyFilez/wavs/variety/brkglass.wav' },
+    { id: 'high hat', letter: 'Z', src: 'https://www.burnkit2600.com/temp/HR-16/HR-16-WAVs/24-closed%20hi%20hat.wav' },
+    { id: 'drum hit', letter: 'X', src: 'https://thebeautybrains.com/wp-content/uploads/podcast/soundfx/44.wav' },
+    { id: 'laser', letter: 'C', src: 'https://www.planetsoarer.com/sounds/WayneTTrun.mp3'  },
   ]
   return (
     <div className="App">
